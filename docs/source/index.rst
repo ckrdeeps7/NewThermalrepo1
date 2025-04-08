@@ -24,7 +24,7 @@ Check out the :doc:`bosch` section and :doc:`gmscope` section for further inform
 Images
 -------
 
-.. image:: _static/vmdl.jpg
+.. image:: vmdl.jpg
    :height: 300px
    :width: 600 px
    :scale: 80 %
@@ -35,7 +35,7 @@ Check out the :doc:`image` section for further information.
 Figure
 ------
 
-.. figure:: _static/sdlc.png
+.. figure:: sdlc.jpg
    :scale: 50 %
    :alt: map to buried treasure
 
@@ -45,15 +45,13 @@ Figure
    case, the legend consists of this paragraph and the following
    table:
 
-   +-------------------------------+-----------------------+
-   | Symbol                        | Meaning               |
-   +===============================+=======================+
-   | .. image:: _static/tent.jpg   | Campground            |
-   +-------------------------------+-----------------------+
-   | .. image:: _static/waves.jpg  | Lake                  |
-   +-------------------------------+-----------------------+
-   | .. image:: _static/peak.jpg   | Mountain              |
-   +-------------------------------+-----------------------+
+   +-----------------------+-----------------------+
+   | Symbol                | Meaning               |
+   +=======================+=======================+
+   | .. image:: tent.jpg   | Campground            |
+   +-----------------------+-----------------------+
+   | .. image:: waves.jpg  | Lake                  |
+   +-----------------------+-----------------------+
 
 Check out the :doc:`figure` section for further information.
 
