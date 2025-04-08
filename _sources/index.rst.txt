@@ -36,7 +36,7 @@ Figure
 ------
 
 .. figure:: sdlc.jpg
-   :scale: 50 %
+   :scale: 100 %
    :alt: map to buried treasure
 
    Software Development LC(Caption_a simple paragraph).
